@@ -18,7 +18,7 @@ A Next.js 14 project using the App Router, Tailwind CSS, and TypeScript. This pr
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/yourproject.git
+   git clone https://github.com/Md-sakib-al-hasan/TaskManagement
 2. **Navigate to the project directory**:
    ```bash
    cd yourproject
@@ -46,4 +46,3 @@ A Next.js 14 project using the App Router, Tailwind CSS, and TypeScript. This pr
  **Build the project for production**:
    ```bash
    npm start
-   
