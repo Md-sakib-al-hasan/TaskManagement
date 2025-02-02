@@ -19,3 +19,31 @@ A Next.js 14 project using the App Router, Tailwind CSS, and TypeScript. This pr
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/yourusername/yourproject.git
+2. **Navigate to the project directory**:
+   ```bash
+   cd yourproject
+3. **Install dependencies**:
+   Create a .env.local file and add the following environment variables:
+   ```bash
+    MONGODB_URI
+    ADMINEMAIL
+    ADMINPASSWORD
+    NAME
+    JWT_SECRET
+   ```
+   Ensure you have the necessary API keys for authentication and services.
+
+## Description
+
+ **Start the development server**:
+   ```bash
+   npm run dev  
+   ```
+ **Build the project for production**:
+   ```bash
+   npm run build
+   ```
+ **Build the project for production**:
+   ```bash
+   npm start
+   
