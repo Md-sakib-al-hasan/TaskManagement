@@ -42,9 +42,22 @@ This project requires authentication to access. Please use the credentials provi
 
 **How to Get Access:**  
 1. Request credentials from the admin at [admin@example.com](mailto:admin@example.com).  
-2. Use the provided **email and password** to log in.  
+2. Use the provided **email and password** to log in.
 
-If you're a developer running this locally, you can create a test account in the database or use environment variables.  
+### 🧪 Test Credentials (For Local Development Only)
+
+For testing purposes, you can use the following test credentials:
+
+- **Email:** `user@example.com`
+- **Password:** `sakib`
+  
+- **Email:** `admin@example.com`
+- **Password:** `sakib`
+
+⚠️ **Do not use these credentials in production!**  
+
+If you're a developer running this locally, you can create a test account in the database or use environment variables for securing access.
+
 
 
 ## Running the Project
