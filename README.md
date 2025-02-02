@@ -33,7 +33,21 @@ A Next.js 14 project using the App Router, Tailwind CSS, and TypeScript. This pr
    ```
    Ensure you have the necessary API keys for authentication and services.
 
-## Description
+
+ ## Visite webside
+ 
+## 🔐 Authentication Required  
+
+This project requires authentication to access. Please use the credentials provided by the administrator.  
+
+**How to Get Access:**  
+1. Request credentials from the admin at [admin@example.com](mailto:admin@example.com).  
+2. Use the provided **email and password** to log in.  
+
+If you're a developer running this locally, you can create a test account in the database or use environment variables.  
+
+
+## Running the Project
 
  **Start the development server**:
    ```bash
@@ -46,3 +60,4 @@ A Next.js 14 project using the App Router, Tailwind CSS, and TypeScript. This pr
  **Build the project for production**:
    ```bash
    npm start
+
